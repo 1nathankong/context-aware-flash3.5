@@ -17,3 +17,16 @@ I observed that prompt caching worked as intendended and as prompts got larger m
 
 
 I am grateful for trying new google tools, I just wish I had more tokens to keep building and finding more use cases to improve for the tools. 
+
+
+Local Gemma model cache testing results:
+
+Model successfully loaded into VRAM!
+
+--- Starting GPU Test 1: Cold Run ---
+GPU Cold Run Time: 124.71 seconds
+
+--- Starting GPU Test 2: Hot Run (Cached Context) ---
+GPU Hot Run Time: 8.51 seconds
+
+ Total Time Saved: 116.20 seconds!
