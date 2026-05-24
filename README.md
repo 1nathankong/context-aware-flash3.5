@@ -21,12 +21,5 @@ I am grateful for trying new google tools, I just wish I had more tokens to keep
 
 Local Gemma model cache testing results:
 
-Model successfully loaded into VRAM!
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/854bb5b9-8412-4127-95f0-f8911a7fe9cf" />
 
---- Starting GPU Test 1: Cold Run ---
-GPU Cold Run Time: 124.71 seconds
-
---- Starting GPU Test 2: Hot Run (Cached Context) ---
-GPU Hot Run Time: 8.51 seconds
-
- Total Time Saved: 116.20 seconds!
