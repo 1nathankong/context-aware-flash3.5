@@ -3,6 +3,8 @@
 Idea was to address token useage of 3.5 Flash model. 
 
 1. Plan was to create a script to stress test the 3.5 Flash model on prompts that require alot of token generation and check if the built in libaries used caching accordingly to the documentation.
+2. Then connect it to a dashboard that the user could see internally, locally secure so all data is exclusive to the user.
+3. Present and pitch to judges, goal of this progress was to adress cloud llms and how to help companies who deploy google products manage token useage from a non technical standpoint. 
 
 
 Some observations.
